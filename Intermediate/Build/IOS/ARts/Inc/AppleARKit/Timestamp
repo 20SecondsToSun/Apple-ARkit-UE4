@@ -1,0 +1,9 @@
+/Applications/UnrealEngine/UE_4.19_Sources/UnrealEngine/Engine/Plugins/Runtime/AppleARKit/Source/AppleARKit/Public/AppleARKitAnchor.h
+/Applications/UnrealEngine/UE_4.19_Sources/UnrealEngine/Engine/Plugins/Runtime/AppleARKit/Source/AppleARKit/Public/AppleARKitBlueprintLibrary.h
+/Applications/UnrealEngine/UE_4.19_Sources/UnrealEngine/Engine/Plugins/Runtime/AppleARKit/Source/AppleARKit/Public/AppleARKitCamera.h
+/Applications/UnrealEngine/UE_4.19_Sources/UnrealEngine/Engine/Plugins/Runtime/AppleARKit/Source/AppleARKit/Public/AppleARKitFrame.h
+/Applications/UnrealEngine/UE_4.19_Sources/UnrealEngine/Engine/Plugins/Runtime/AppleARKit/Source/AppleARKit/Public/AppleARKitHitTestResult.h
+/Applications/UnrealEngine/UE_4.19_Sources/UnrealEngine/Engine/Plugins/Runtime/AppleARKit/Source/AppleARKit/Public/AppleARKitLightEstimate.h
+/Applications/UnrealEngine/UE_4.19_Sources/UnrealEngine/Engine/Plugins/Runtime/AppleARKit/Source/AppleARKit/Public/AppleARKitPlaneAnchor.h
+/Applications/UnrealEngine/UE_4.19_Sources/UnrealEngine/Engine/Plugins/Runtime/AppleARKit/Source/AppleARKit/Private/AppleARKitVideoOverlay.h
+/Applications/UnrealEngine/UE_4.19_Sources/UnrealEngine/Engine/Plugins/Runtime/AppleARKit/Source/AppleARKit/Private/ExternalTextureMaterialExpression.h
